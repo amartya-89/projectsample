@@ -1,0 +1,10 @@
+2019-02-10 05.41.13.259: Upgrading from 38 to 60...
+Sucessfully recreated <SQLTable transientPullRepository> using copy transientType, class, 1, identifier, relatedIdentifier, mingled, dequeueOrder, serializedRecord -> transientType, class, scopeIndex, identifier, relatedIdentifier, mingled, dequeueOrder, serializedRecord (0 records copied)
+Sucessfully recreated <SQLTable remappedDeletes> using copy 2, cloudIdentifier, realIdentifier, deleteDate -> scopeIndex, cloudIdentifier, realIdentifier, deleteDate (0 records copied)
+Sucessfully recreated <SQLTable clientCache> using copy 1, identifier, class, relatedIdentifier, secondaryIdentifier, serializedRecord -> scopeIndex, identifier, class, relatedIdentifier, secondaryIdentifier, serializedRecord (584 records copied)
+Sucessfully recreated <SQLTable idMapping> using copy 3, cloudIdentifier, localIdentifier, mappingState, addTimestamp, addDirection, deleteTimestamp, deleteDirection -> stableScopeIndex, cloudIdentifier, localIdentifier, mappingState, addTimestamp, addDirection, deleteTimestamp, deleteDirection (584 records copied)
+Sucessfully recreated <SQLTable quarantinedRecords> using copy 1, localIdentifier, quarantineDate, reason -> scopeIndex, localIdentifier, quarantineDate, reason (0 records copied)
+Sucessfully recreated <SQLTable pushRepository> using copy class, 1, identifier, changeType, relatedIdentifier, secondaryIdentifier, dequeueOrder, trashed, uploadIdentifier, trustLevel -> class, scopeIndex, identifier, changeType, relatedIdentifier, secondaryIdentifier, dequeueOrder, trashed, uploadIdentifier, trustLevel (0 records copied)
+2019-02-10 05.41.15.028: Upgrade from 38 to 60: Done
+2019-11-02 00.06.57.570: Upgrading from 60 to 62...
+2019-11-02 00.06.57.611: Upgrade from 60 to 62: Done
